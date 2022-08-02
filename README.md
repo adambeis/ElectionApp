@@ -1,8 +1,25 @@
-# Election (client side)
+# Election App
 
-## Tech:
+Voting app through blockchain technology
 
--SvelteKit
--TailwindCSS
--Ethers.js
--IPFS
+## How to use
+
+- Deploy the smart contrat
+- **cd ElectionApp**
+- **npm install**
+- **npm run dev**
+- open browser at: **http://localhost:3000/**
+
+## Admin
+
+- Admin can add Candidates
+- Admin can add Voters
+- Admin can start and reset Election
+
+## Voters
+
+- Registered voters can vote
+
+## Results
+
+- Results of the election
